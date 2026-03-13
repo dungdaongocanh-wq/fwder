@@ -1,0 +1,3 @@
+# Fwder - Phần mềm quản lý chứng từ Forwarder
+
+Đang khởi tạo project...
